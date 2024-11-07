@@ -5,5 +5,5 @@ Problem: Maintain a strong network of professionals.
 - Saves historical contact information in a cloud drive location (no server hosted data)
 
 # Alternatives that already exist
- - [[link](https://play.google.com/store/apps/details?id=me.barta.stayintouch)](https://play.google.com/store/apps/details?id=me.barta.stayintouch)
+ - [https://play.google.com/store/apps/details?id=me.barta.stayintouch](https://play.google.com/store/apps/details?id=me.barta.stayintouch)
 
